@@ -1,24 +1,25 @@
-# Curso Práctico de JavaScript
+# platzi-curso-practico-javascript
 
 ...
 
-## Taller #1: Figuras geométricas
+## Taller #1: figuras geométricas
 
-1. Definir las formulas
-2. Implementar las formulas en JS
-3. Crear funciones
-4. Integrar JS con HTML
+- Primer paso: definir las fórmulas
+- Segundo paso: implementar la fórmulas en JavaScript 
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML
 
-## Taller #2: Porcentajes y descuentos
+## Taller #2: porcentaajes y descuentos
 
-1. Definir las formulas
-2. Implementar las formulas en JS
-3. Crear funciones
-4. Integrar JS con HTML
+- Primer paso: definir las fórmulas
+- Segundo paso: implementar la fórmulas en JavaScript 
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML
 
-## Taller #3: Promedio, moda y mediana
+## Taller #3: promedio, mediana y moda
 
-1. Definir las formulas
-2. Implementar las formulas en JS
-3. Crear funciones
-4. Integrar JS con HTML
+- Primer paso: definir las fórmulas
+- Segundo paso: implementar la fórmulas en JavaScript 
+- Tercer paso: crear funciones
+- Cuarto paso: integrar JS con HTML
+# curso-practico-javascript
